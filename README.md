@@ -7,6 +7,11 @@ $ npm install
 $ npm start
 ````
 
+##Twinbus
+Edited 15.03.2023 for scrimba module 8 lecture 6 Pulling. 
+
+
+
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
